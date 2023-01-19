@@ -1,0 +1,25 @@
+{
+  "name": "meat-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/restify": "5.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoyceKell/meat-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoyceKell/meat-api/issues"
+  },
+  "homepage": "https://github.com/JoyceKell/meat-api#readme",
+  "dependencies": {
+    "restify": "6.3.4"
+  }
+}
